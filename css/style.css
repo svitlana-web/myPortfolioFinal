@@ -130,7 +130,6 @@ hr {
     background-color: var(--primary-color-headlines);
     border-radius: 7px;
     border: none;
-    justify-self: center;
 }
 
 .headline h3 {
